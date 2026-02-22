@@ -1,1 +1,2 @@
 # odin-recipes
+This project will allow me to demonstrate HTML skills learned through The Odin Project. I will showcase the HTML boilerplate, headings, ordered & unordered list items, links, media elements, and the use of Git.
